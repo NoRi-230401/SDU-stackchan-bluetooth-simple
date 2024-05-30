@@ -24,9 +24,12 @@ SDに入れたソフトを切り替えることができるようになります
 ・M5Stack Core2 <br>
 ・M5Stack Core2 v1.1　（未確認）<br><br>
 
+
 ## 最新BINの取得
-このソフトをコンパイルした最新のBINファイルは、下記のリポジトリよりダウンロードできるようにしました。
+コンパイル済みの最新BINファイル("03-btSpeaker.bin")は、下記のリポジトリから取得できます。
 - [BinsPack-for-StackChan-Core2](https://github.com/NoRi-230401/BinsPack-for-StackChan-Core2)<br><br>
+
+
 
 
 ## SD-Updaterについて
