@@ -7,7 +7,7 @@
 #include <M5StackUpdater.h>
 #define TFCARD_CS_PIN 4
 
-const String PROG_NAME = "StackChan-BT-speaker";
+const String PROG_NAME = "stackchan-bluetooth-speaker";
 #define SDU_SKIP_TMR 5000 // skip timer : ms
 
 void SDU_lobby();

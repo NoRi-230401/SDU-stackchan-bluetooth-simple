@@ -3,7 +3,6 @@
 // Copyright (c) 2022 Takao Akaki
 
 #include <Arduino.h>
-
 #include <Ticker.h>
 #include <SD.h>
 #include <M5Unified.h>
