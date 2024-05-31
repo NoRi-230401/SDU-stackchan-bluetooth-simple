@@ -8,8 +8,10 @@ robo8080さんのソフトから次の修正を行いました。
 
 ブート時に、SD_Updater用の画面が立ち上がります。<br>
 SDに入れたソフトを切り替えることができるようになります。<br>
+<br>
 
-起動後のソフトの操作方法は、下記のソフトの参照してください。
+ソフトの操作方法は、下記のソフトを参照してください。
+<br>
 
 
 ## 基のリポジトリ
@@ -26,16 +28,19 @@ SDに入れたソフトを切り替えることができるようになります
 
 
 ## 最新BINの取得
-コンパイル済みの最新BINファイル("03-btSpeaker.bin")は、下記のリポジトリから取得できます。
-- [BinsPack-for-StackChan-Core2](https://github.com/NoRi-230401/BinsPack-for-StackChan-Core2)<br><br>
-
-
+コンパイル済みの最新BINファイルは、下記のリポジトリから取得できます。
+- [BinsPack-for-StackChan-Core2](https://github.com/NoRi-230401/BinsPack-for-StackChan-Core2)<br>
+<br>
 
 
 ## SD-Updaterについて
 tobozoさん開発。SDに複数のBINファイルを入れて、ソフトを切替えて使用できるようになります。<br>
 
-
  https://github.com/tobozo/M5Stack-SD-Updater<br><br>
 
+
+タカオさん、2023/7/29 ｽﾀｯｸﾁｬﾝ お誕生日会 2023のLTで、M5Stack-SD-Updaterの概要を説明した時のスライド<br>
+https://speakerdeck.com/mongonta0716/sutatukutiyandefu-shu-apuriwoqie-riti-erutekunituku
+
+<br><br><br>
 
